@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A47F76C-6CEA-4DDE-9661-DF93F166D4F4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>博站</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E931FE3532465B6427132A53CB24A495A14C5599</key>
+		<string>github.com:codingnow/bozhan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>博站/博站.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E931FE3532465B6427132A53CB24A495A14C5599</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:codingnow/bozhan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E931FE3532465B6427132A53CB24A495A14C5599</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E931FE3532465B6427132A53CB24A495A14C5599</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bozhan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
